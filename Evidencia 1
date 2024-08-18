@@ -1,4 +1,4 @@
-# **Introducción**
+## Introducción
 
 En estructura de datos adecuada es crucial para la eficiencia y claridad de los programas. Cuatro de las estructuras de datos más fundamentales en Python son las listas, las tuplas, los diccionarios y los conjuntos. Cada una de estas estructuras ofrece características únicas que las hacen más adecuadas para diferentes tipos de tareas y operaciones.
 Una de las funciones son las listas que son colecciones ordenadas y mutables que permiten almacenar elementos de diferentes tipos y ofrecen una amplia gama de métodos para manipulación y acceso a datos. En contraste, las tuplas son similares a las listas, pero inmutables, lo que significa que una vez creada una tupla, sus elementos no pueden ser modificados, haciéndolas útiles para almacenar datos constantes. Los diccionarios son colecciones desordenadas de pares clave-valor, permitiendo un acceso rápido a los valores mediante claves únicas y siendo extremadamente versátiles para asociar datos. Finalmente, los conjuntos son colecciones desordenadas de elementos únicos, ideales para operaciones que implican la verificación de pertenencia y la eliminación de duplicados. 
